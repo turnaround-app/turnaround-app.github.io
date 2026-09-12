@@ -7,3 +7,7 @@ temp/worktrees
 node_modules/
 dist/
 .astro/
+
+# Sanctioned scratch locations - AGENTS.md requires both, trailing-slash form
+tmp/
+temp/
